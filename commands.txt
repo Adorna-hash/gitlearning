@@ -1,2 +1,4 @@
 git init[initialise git]
 git status[monitor untracked changes ]
+git add -add[add all changes to staging area]
+git commit -m "ur msg"
