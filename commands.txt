@@ -8,3 +8,9 @@ exact copy from remote remote
 >git clone
 changes from remote remote
 >git pull
+  
+  add and push to path
+>git remote add origin path
+>git push origin master
+to check name of path
+>git remote -v
