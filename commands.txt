@@ -21,3 +21,5 @@ clone
 
 changes
 pull
+list all branches
+>git branch
