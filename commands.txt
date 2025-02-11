@@ -14,3 +14,10 @@ changes from remote remote
 >git push origin master
 to check name of path
 >git remote -v
+
+
+exact copy
+clone
+
+changes
+pull
