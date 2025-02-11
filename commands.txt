@@ -2,3 +2,9 @@ git init[initialise git]
 git status[monitor untracked changes ]
 git add -add[add all changes to staging area]
 git commit -m "ur msg"
+command for adding local repository to remote
+>git push
+exact copy from remote remote
+>git clone
+changes from remote remote
+>git pull
